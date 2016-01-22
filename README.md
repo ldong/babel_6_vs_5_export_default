@@ -3,7 +3,11 @@ Author: Lin Dong
 
 Date: Thu Jan 21 17:25:26 PST 2016
 
-## CLI
+
+##
+One illustration of difference between [Babel 6 and babel5 module exports](https://gist.github.com/ldong/300f8422d3f4843435fa)
+
+## How to run
 
 This dummy repo will transpilie everything in `src` into `lib` directory
 
